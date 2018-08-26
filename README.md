@@ -47,7 +47,8 @@ Run All Above
 Run All Below
 
 To run the Python code for this project, the steps is as following:
-1. Open a Juputer Nootbook. 
+1. Open a Juputer Nootbook. You can start the Jupyter notebook with this command:
+    jupyter notebook
 2. In the Juputer Nootbook environment, open the Python source program Navigation.ipynb
 3. Run this program by using one of the Run options from the Cell menu.
 
