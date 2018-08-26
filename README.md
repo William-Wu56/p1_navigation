@@ -38,7 +38,18 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 Follow the instructions in `Navigation.ipynb` to get started with training your own agent!
 
-Holo World!
+In Juputer Nootbook, the “Cell” menu has a number of menu items for running code in different ways. These includes:
+Run Cells 
+Run Cells and Select Below
+Run Cells and Insert Below
+Run All
+Run All Above
+Run All Below
+
+To run the Python code for this project, the steps is as following:
+1. Open a Juputer Nootbook. 
+2. In the Juputer Nootbook environment, open the Python source program Navigation.ipynb
+3. Run this program by using one of the Run options from the Cell menu.
 
 ### (Optional) Challenge: Learning from Pixels
 
